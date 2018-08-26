@@ -1,5 +1,8 @@
 # CoreWithAzureCommunication
 A multi-project sample using Azure services to communicate between web and mobile apps.
 
-This repository contains severalapplications, both web and mobile, that demonstrate the use of the Azure Service Bus and the Azure Notification Hub.
-In order to demonstrate the application communication, several controls from Syncfusion are used, such as a Calender, a Schedule, and a Grid.
+The web apps are written in ASP.NET Core 2.x. The mobile app(s) are written using Xamarin.Forms.
+
+The samples use Azure Service Bus and Azure Notification Hub for messages.
+
+The samples also make use of severaal Syncfusion controls.
